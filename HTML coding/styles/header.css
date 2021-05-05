@@ -1,3 +1,7 @@
+.landing-page-top {
+  background-image: url("../images/bg-top.png");
+}
+
 .social-media-nav > li > a {
   display: inline-block;
   color: #000;
@@ -16,4 +20,34 @@
 .social-media-nav li a:hover {
   background-color: #000;
   color: #fff;
+}
+.game-roller .carousel-item {
+  max-height: 400px;
+  vertical-align: bottom;
+}
+
+.game-roller .carousel-item img {
+  display: inline-block;
+  transform: translateY(-20%);
+}
+
+.game-roller .carousel-caption {
+  justify-content: right;
+}
+
+.game-roller .carousel-indicators {
+  height: 100%;
+  margin: auto;
+  position: absolute;
+  right: 0;
+}
+
+#carouselExampleCaptions {
+  border-bottom: 3px solid #dd163b;
+  position: relative;
+}
+
+#carouselExampleCaptions .carousel-indicators img {
+  height: 50px;
+  width: auto;
 }
