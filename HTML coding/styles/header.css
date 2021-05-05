@@ -21,6 +21,10 @@
   background-color: #000;
   color: #fff;
 }
+.game-roller {
+  margin-bottom: 10px;
+}
+
 .game-roller .carousel-item {
   max-height: 400px;
   vertical-align: bottom;
