@@ -1,0 +1,31 @@
+.search-bar {
+}
+.search-bar-container {
+}
+.search-bar-input {
+  border-radius: 0;
+  border: 1px solid #fff;
+  padding: 0.6rem;
+  color: #8a8a8a;
+}
+.search-bar-input:focus,
+.search-bar-input::-moz-focus-inner {
+  border: 1px solid #dd163b;
+  outline: 1px solid #dd163b;
+}
+
+.search-bar-button {
+  border: none;
+  color: #fff;
+  background-color: #dd163b;
+  font-size: 0.8rem;
+  padding: 0.4rem;
+}
+
+.search-bar-button:hover {
+  background-color: #c21535;
+}
+
+.search-bar-button:focus {
+  background-color: #870d23;
+}
