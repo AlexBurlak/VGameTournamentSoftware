@@ -1,11 +1,13 @@
 .search-bar {
+  margin: 0;
+  justify-content: center;
 }
 .search-bar-container {
 }
 .search-bar-input {
   border-radius: 0;
   border: 1px solid #fff;
-  padding: 0.6rem;
+  padding: 0.6rem 0;
   color: #8a8a8a;
 }
 .search-bar-input:focus,
@@ -19,7 +21,7 @@
   color: #fff;
   background-color: #dd163b;
   font-size: 0.8rem;
-  padding: 0.4rem;
+  padding: 0.6rem 0rem;
 }
 
 .search-bar-button:hover {
