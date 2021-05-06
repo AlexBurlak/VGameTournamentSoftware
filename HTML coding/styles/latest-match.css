@@ -84,7 +84,7 @@
   transition: background-color 0.2s ease;
   background-color: #eb3154;
   border-color: #ee526f;
-  padding: 6px 14px;
+  padding: 10px 14px;
   text-align: center;
   color: #fff;
   text-decoration: none;
@@ -111,4 +111,95 @@
   display: block;
   background-color: #7f8b92;
   height: 100%;
+}
+
+.latest-match-play {
+  background-color: #293139;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 1rem 0;
+}
+.latest-match-play .left-team,
+.latest-match-play .right-team {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0;
+}
+.latest-match-play .right-team {
+  justify-content: center;
+}
+.latest-match-play .left-team i,
+.latest-match-play .right-team i {
+  display: block;
+  min-width: 62px;
+  min-height: 62px;
+  padding: 16px;
+  font-size: 3rem;
+  color: #fff;
+  text-align: center;
+  background-color: #161e21;
+  margin-right: 5px;
+}
+.latest-match-play .right-team i {
+  margin: 0;
+  margin-left: 1rem;
+}
+.latest-match-play .left-team .team-title,
+.latest-match-play .right-team .team-title {
+  margin-left: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  padding: 8px;
+}
+.latest-match-play .right-team .team-title {
+  margin: 0;
+  margin-right: 1rem;
+}
+.latest-match-play .left-team h3,
+.latest-match-play .right-team h3 {
+  color: #fff;
+  text-align: left;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.latest-match-play .match-score-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+}
+.latest-match-play .match-score-info h3 {
+  color: #fff;
+  margin-top: 5px;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+.latest-match-play .match-score-info .timestamp {
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin: 0.8rem 0;
+}
+.latest-match-play .match-score-info .score {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.7rem 2rem;
+  margin: 5px 0 5px 0;
+  border-radius: 0.3rem;
+}
+.match-lose {
+  background-color: #e2361f;
+}
+.match-win {
+  background-color: #38a220;
+}
+.match-row {
+  background-color: #171e22;
 }
