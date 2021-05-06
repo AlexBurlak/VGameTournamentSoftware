@@ -1,35 +1,7 @@
-.latest-match h2::before {
-  content: "";
-  display: block;
-  margin: 0;
-  min-width: 3rem;
-  flex: 3rem;
-  border-bottom: 0.5rem solid #293139;
-}
-.latest-match h2 {
-  display: flex;
-  flex-direction: row;
-  color: #fff;
-  align-items: center;
-}
-.latest-match h2::after {
-  content: "";
-  display: block;
-  border-bottom: 0.5rem solid #293139;
-  flex: 100;
+.latest-match {
+  margin-bottom: 2rem;
 }
 
-.latest-match h2 span {
-  flex: auto;
-  display: inline-block;
-  text-align: center;
-  padding-right: 0.4rem;
-  padding-left: 0.2rem;
-  font-weight: bold;
-}
-.latest-match h2 .red-color {
-  color: #dd163b;
-}
 .active-match-info {
   display: flex;
   flex-direction: column;
