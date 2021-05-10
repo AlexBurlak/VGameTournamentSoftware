@@ -1,0 +1,12 @@
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/bin/Debug/net5.0/VGame.CL.deps.json
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/bin/Debug/net5.0/VGame.CL.dll
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/bin/Debug/net5.0/ref/VGame.CL.dll
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/bin/Debug/net5.0/VGame.CL.pdb
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/obj/Debug/net5.0/VGame.CL.csprojAssemblyReference.cache
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/obj/Debug/net5.0/VGame.CL.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/obj/Debug/net5.0/VGame.CL.AssemblyInfoInputs.cache
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/obj/Debug/net5.0/VGame.CL.AssemblyInfo.cs
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/obj/Debug/net5.0/VGame.CL.csproj.CoreCompileInputs.cache
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/obj/Debug/net5.0/VGame.CL.dll
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/obj/Debug/net5.0/ref/VGame.CL.dll
+/mnt/c7a13833-a1e9-459d-90eb-a62744874481/Projects/Current/VGameTournamentSoftware/VGame/VGame.CL/obj/Debug/net5.0/VGame.CL.pdb

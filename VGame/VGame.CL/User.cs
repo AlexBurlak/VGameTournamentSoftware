@@ -12,7 +12,7 @@ namespace VGame.CL
         public string? FirstName { get; set; }
         public string? SecondName { get; set; }
 #nullable  disable
-        public byte[] Password { get; set; }
+        public string Password { get; set; }
         public string EMail { get; set; }
         public DateTime? Birthday { get; set; }
         public int TeamId { get; set; }
