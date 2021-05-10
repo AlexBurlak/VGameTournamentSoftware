@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="be3b9e4c-5bf0-4629-88b7-54a4360b2664" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VGame.CL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VGame.CL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Team.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +15,9 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
+      <option value="$PROJECT_DIR$/Match.cs" />
       <option value="$PROJECT_DIR$/User.cs" />
+      <option value="$PROJECT_DIR$/Team.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sLQXiblohRHICdru0lfS3ept9U" />
@@ -39,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620649448659</updated>
-      <workItem from="1620649519004" duration="580000" />
+      <workItem from="1620649519004" duration="1049000" />
     </task>
     <servers />
   </component>
