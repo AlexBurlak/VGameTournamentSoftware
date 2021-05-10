@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be3b9e4c-5bf0-4629-88b7-54a4360b2664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MatchResult.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tournament.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VGame.CL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VGame.CL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Match.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Match.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +13,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/User.cs" />
       <option value="$PROJECT_DIR$/Team.cs" />
       <option value="$PROJECT_DIR$/MatchResult.cs" />
       <option value="$PROJECT_DIR$/Match.cs" />
+      <option value="$PROJECT_DIR$/Tournament.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sLQXiblohRHICdru0lfS3ept9U" />
@@ -43,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620649448659</updated>
-      <workItem from="1620649519004" duration="1422000" />
+      <workItem from="1620649519004" duration="1659000" />
     </task>
     <servers />
   </component>
