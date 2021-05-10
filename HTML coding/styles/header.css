@@ -1,0 +1,57 @@
+.landing-page-top {
+  background-image: url("../images/bg-top.png");
+}
+
+.social-media-nav > li > a {
+  display: inline-block;
+  color: #000;
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 50%;
+  font-size: 1em;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 2.5px 2.5px 5px;
+  text-align: center;
+  margin: 0 3px 3px 0;
+}
+
+.social-media-nav li a:hover {
+  background-color: #000;
+  color: #fff;
+}
+.game-roller {
+  margin-bottom: 10px;
+}
+
+.game-roller .carousel-item {
+  max-height: 400px;
+  vertical-align: bottom;
+}
+
+.game-roller .carousel-item img {
+  display: inline-block;
+  transform: translateY(-20%);
+}
+
+.game-roller .carousel-caption {
+  justify-content: right;
+}
+
+.game-roller .carousel-indicators {
+  height: 100%;
+  margin: auto;
+  position: absolute;
+  right: 0;
+}
+
+#carouselExampleCaptions {
+  border-bottom: 3px solid #dd163b;
+  position: relative;
+}
+
+#carouselExampleCaptions .carousel-indicators img {
+  height: 50px;
+  width: auto;
+}

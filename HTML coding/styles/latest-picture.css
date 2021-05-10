@@ -1,0 +1,24 @@
+.latest-picture .row {
+  margin: 0.5rem 0rem;
+}
+.latest-picture .row .col-4 {
+  height: 100%;
+  position: relative;
+  padding: 0.5rem;
+}
+.latest-picture .row .col-4 a {
+  height: 100%;
+  width: 100%;
+}
+
+.latest-picture .row .col-4 a:hover img {
+  transform: scale(1.1);
+}
+
+.latest-picture img {
+  z-index: 1;
+  width: 100%;
+  height: auto;
+  object-fit: fill;
+  transition: all 0.4s ease;
+}
